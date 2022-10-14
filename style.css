@@ -1,0 +1,14 @@
+body {
+  max-width: 615px;
+}
+
+h1 {
+  text-align: center;
+}
+
+table tr td {
+  border: 2px solid black;
+  text-align: center;
+  height: auto;
+  width: 50px;
+}
