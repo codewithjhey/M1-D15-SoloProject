@@ -57,18 +57,16 @@ const minAndMax = function () {
 console.log(minAndMax())
 
 //Exercise 31
-/*
-const getElement = document.getElementById ('container');
+
+const getElement = document.getElementById("container")
 
 console.log(getElement)
 
 //Exercise 32
 
-const getAllTd = document.getElementsByTagName('td');
+const getAllTd = document.getElementsByTagName("td")
 
 console.log(getAllTd)
-
-*/
 
 //Exercise 33
 
